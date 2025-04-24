@@ -1,8 +1,8 @@
 ## Oi eu sou Nicole Bastiani, estudante de ADSIS!
 
 - 🔭 Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo HTML, CSS e JS
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando HTML, CSS e JS
+- 😄 Pronomes: ela/dela
 
 <div>
 <a href="https://github.com/nifbastiani"> 
