@@ -1,10 +1,14 @@
-## Oi eu sou Nicole Bastiani, estudante de ADSIS!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DB7093&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-- 🔭 Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e JS
-- 😄 Pronomes: ela/dela
+#
+<p align="center"> Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unicesumar de Maringá. Atualmente estou buscando aprender novas linguagens de programação, como JavaScript e Python. Pretendo futuramente trabalhar como dev mobile! (: </p>
 
-<div>
+
+<div align="center">
 <a href="https://github.com/nifbastiani"> 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nifbastiani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifbastiani&layout=compact&langs_count=16&theme=radical"/>
