@@ -5,7 +5,7 @@
 </div>
 
 #
-<p align="center"> Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unicesumar de Maringá. Atualmente estou buscando aprender novas linguagens de programação, como JavaScript e Python. Pretendo futuramente trabalhar como dev mobile! (: </p>
+<p align="center"> Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unicesumar de Maringá. Atualmente estou no segundo semestre, possuo sólida base em lógica de programação e desenvolvimento de algoritmos e domínio inicial em técnicas de programação em linguagem C. </p>
 
 
 <div align="center">
