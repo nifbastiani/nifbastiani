@@ -1,24 +1,22 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DB7093&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 #
-<p align="center"> Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unicesumar de Maringá. Atualmente estou no segundo semestre, possuo sólida base em lógica de programação e desenvolvimento de algoritmos e domínio inicial em técnicas de programação em linguagem C. </p>
+<p align="center"> Computer Systems Analysis and Development student at Unicesumar University in Maringá, currently in the second semester. Possesses a solid foundation in programming logic, algorithm development, and introductory C programming. Currently expanding skills in JavaScript and beginning studies in React for front-end development. Interested in Software Engineering, back-end architecture, Artificial Intelligence, and system development. </p>
 
 
 <div align="center">
-<a href="https://github.com/nifbastiani"> 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nifbastiani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifbastiani&layout=compact&langs_count=16&theme=radical"/>
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="500">
+  </p>
+
+  INITIALIZING...<br>
+  CONNECTED TO THE WIRED
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
  ##
  
 <div>
