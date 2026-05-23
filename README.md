@@ -38,9 +38,9 @@ Interested in AI and system architecture.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nifbastiani&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nifbastiani&show_icons=true&theme=vue&hide_border=true&bg_color=00000000"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifbastiani&layout=compact&theme=dark&hide_border=true&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nifbastiani&layout=compact&theme=vue&hide_border=true&bg_color=00000000&include_all_commits=true"/>
 
 </div>
 
