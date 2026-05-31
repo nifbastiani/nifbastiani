@@ -48,7 +48,7 @@ Interested in AI and system architecture.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,c" />
+<img src="https://skillicons.dev/icons?i=js,html,css,c" />
 
 </div>
 
